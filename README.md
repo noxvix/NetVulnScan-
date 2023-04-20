@@ -1,9 +1,6 @@
 # NetVulnScan-
 NetVulnScan is an open-source network vulnerability scanner that detects open ports and common vulnerabilities in IP ranges. With a user-friendly command-line interface, it simplifies network security assessments and helps maintain a secure environment.
 <pre>
-# NetVulnScan
-
-NetVulnScan is an open-source network vulnerability scanner designed to help you identify open ports and common vulnerabilities in your network. With an easy-to-use command-line interface, NetVulnScan simplifies the process of scanning a range of IP addresses and checking for potential security risks.
 
 ## Features
 
